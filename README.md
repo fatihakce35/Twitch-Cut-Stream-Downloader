@@ -7,16 +7,16 @@ After that, put ffmpeg on project files directory.
 # Install
 You can get project with: "**git clone https://github.com/FatihTheConqueror/Twitch-Cut-Stream-Downloader.git**"
 
-# How can use project
+# How can you use project
 
 ## Chrome settings:
-If you start program for the first time, you have to set your chrome setting into program.
+If you start the program for the first time, you have to set your chrome setting into program.
 ![alt text](https://i.hizliresim.com/rdhr25m.png)
 
 You can find your chrome settings in **chrome://version** link.
-![alt text](https://i.hizliresim.com/c8jzfui.png)
+![alt text](https://i.hizliresim.com/q1qxivx.png)
 
-After that, you've set your chrome settings.
+Now, you completed your chrome settings..
 
 ## Requirements For Twitch
 If you want to download a twitch stream, you've logging your twitch account in your chrome browser and you have to **be sure the stream is avaliable to get clip**. If you

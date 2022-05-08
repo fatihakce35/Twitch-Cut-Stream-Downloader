@@ -1,6 +1,6 @@
 # Twitch-Cut-Stream-Downloader
 Downloading Twitch Streams by dividing them.
-# First İmportant!!
+# İmportant!!
 You have to download ffmpeg packeges here: [ffmpeg](https://we.tl/t-AjLlef0iBq)
 After that, put ffmpeg on project files directory.
 

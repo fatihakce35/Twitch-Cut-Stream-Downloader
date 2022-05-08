@@ -19,9 +19,9 @@ You can find your chrome settings in **chrome://version** link.
 Now, you completed your chrome settings..
 
 ## Requirements For Twitch
-If you want to download a twitch stream, you've logging your twitch account in your chrome browser and you have to **be sure the stream is avaliable to get clip**. If you
-already loggin your twitch account in your browser, it will be in your ChromeProfile already.
--Some streamers are putting clip requirements. For example you have to follow them or you have to be subscriber them. Be sure the stream is avaliable to get clip.
+If you want to download a twitch stream, you've log in your twitch account in your chrome browser and you have to **and be sure that you stream is available for taking a clip**. 
+If you've already logged in your twitch account in your browser, it will be in your ChromeProfile already.
+-There are some requirements to get a clip from certain streamers. For instance, you have subscribe or follow them. Please be sure that you can get a clip from the stream..
 
 ## How to use
 
@@ -51,11 +51,11 @@ When clips download progress is finished, program is starting to merge clips.
 
 ![alt text](https://i.hizliresim.com/7vtg3nl.png)
 
-After you got a video file :)
+After that, you already got the video file :)
 
 ![alt text](https://i.hizliresim.com/ikstuq0.png)
 
-Videos are saving default your windows desktop. If you want to change save directory, you can change it in **merger.py** file.
+Videos are saved in your windows desktop by default. If you want to change save directory, you can change it in **merger.py** file.
 
 # About the program
 

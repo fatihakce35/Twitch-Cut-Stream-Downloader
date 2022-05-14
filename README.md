@@ -2,8 +2,8 @@
 
 A program that allows you to cut and download the streams you watch on the Twitch platform. So you don't have to download entire stream.
 # İmportant!!
-You have to download ffmpeg packeges here: [ffmpeg](https://we.tl/t-AjLlef0iBq) **../Twitch-Cut-Stream-Downloader/**
-After that, put ffmpeg on project files directory.
+You have to download ffmpeg packeges here: [ffmpeg](https://we.tl/t-AjLlef0iBq) 
+After that, put ffmpeg on project files directory **../Twitch-Cut-Stream-Downloader/**
 
 # Install
 You can get project with: "**git clone https://github.com/FatihTheConqueror/Twitch-Cut-Stream-Downloader.git**"

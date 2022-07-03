@@ -88,7 +88,12 @@ def get_download_link(start_second_stream,end_second_stream,seconds,stream_id,ch
                 continue
 
         #if statments for downloand link is valid or not.
+        """
         if not "raw_media/vod" in download_url:
+            part_of_video += 1
+            #old version. twtich has been changed clip download link
+        """
+        if not "raw_media/" in download_url:
             part_of_video += 1
         else:
             download_list.append(download_url)
